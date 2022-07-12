@@ -1,5 +1,5 @@
 
-<?php include "dbinfo.php"; ?>
+<?php include "../dbinfo.php"; ?>
 <html>
 <body>
 <h1>Sample page</h1>
