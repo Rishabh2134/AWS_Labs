@@ -4,8 +4,10 @@ files:
   - source: /index.html
     destination: /var/www/html/
     
-  - source: /dbinfo.inc.php
+  - source: /SampleCode.php
+    destination: /var/www/html/
+    
+  - source: /dbinfo.php
     destination: /var/www/html/
 
-  - source: /SamplePage.php
-    destination: /var/www/html/
+
