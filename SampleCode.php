@@ -2,7 +2,7 @@
 <?php include "dbinfo.php"; ?>
 <html>
 <body>
-<h1>Sample page</h1>
+<h1>Sample page edit by akash</h1>
 <?php
 
   /* Connect to MySQL and select the database. */
